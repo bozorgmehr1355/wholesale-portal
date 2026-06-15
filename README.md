@@ -1,1 +1,1 @@
-# scorpion_shop
+# wholesale-portal
